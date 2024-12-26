@@ -12,12 +12,12 @@
 ## 📊 Mes statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MathieuLP35&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MathieuLP35&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=MathieuLP35&theme=transparent" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuLP35&layout=compact&theme=transparent" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=MathieuLP35&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuLP35&layout=compact&theme=radical" />
 </div>
 
 ## 🛠️ Langages et outils
