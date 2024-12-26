@@ -35,6 +35,11 @@
   ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
   ![VueJS](https://img.shields.io/badge/-VueJS-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
   ![NuxtJS](https://img.shields.io/badge/-NuxtJS-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat-square&logo=postgresql&logoColor=white)
+
 
 </div>
 
