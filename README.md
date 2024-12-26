@@ -1,7 +1,7 @@
 ## Bienvenue sur ma page GitHub 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e3113d7d-502f-4de5-82ff-68c23ef6956b" alt="image" width="100" height="100" style="border-radius: 50%;" />
+  <img src="https://github.com/user-attachments/assets/ab8213c5-0abd-48a8-a298-7f0e3ec43ea4" alt="image" width="100" height="100" style="border-radius: 50%;" />
 
   [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sayo35)
   [![Discord](https://img.shields.io/badge/Discord-sayo35-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/hyBn8Nt3Ar)
