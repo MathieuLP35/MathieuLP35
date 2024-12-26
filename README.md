@@ -5,6 +5,7 @@
 
   [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sayo35)
   [![Discord](https://img.shields.io/badge/Discord-sayo35-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/hyBn8Nt3Ar)
+  ![](https://api.visitorbadge.io/api/VisitorHit?user=MathieuLP35f&repo=github-visitors-badge&countColor=%23257ee3&label=Visiteurs)
 
 </div>
 
@@ -48,13 +49,3 @@
 N'hésitez pas à me contacter pour discuter ou pour toute question !
 
 - 📧 Email : [mathieu56930@live.fr](mailto:mathieu56930@live.fr)
-
----
-
-<div align="center">
-  
-  ### Merci de visiter mon profil ! 👋
-
-  ![](https://api.visitorbadge.io/api/VisitorHit?user=MathieuLP35f&repo=github-visitors-badge&countColor=%23257ee3&label=Visiteurs)
-  
-</div>
