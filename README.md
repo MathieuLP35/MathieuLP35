@@ -49,8 +49,3 @@
   ---
 </div>
 
-## 📫 Me contacter
-
-N'hésitez pas à me contacter pour discuter ou pour toute question !
-
-- 📧 Email : [mathieu56930@live.fr](mailto:mathieu56930@live.fr)
