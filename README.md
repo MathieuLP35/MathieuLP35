@@ -11,14 +11,16 @@
 
 ## 📊 Mes statistiques GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MathieuLP35&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-</div>
 
-<div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=MathieuLP35&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuLP35&layout=compact&theme=radical" />
-</div>
+<p align="center">
+  <a href="https://github.com/MathieuLP35">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=MathieuLP35&theme=radical&show_icons=true&hide_border=true&count_private=false" />
+  </a>
+  <a href="https://github.com/MathieuLP35">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuLP35&layout=compact&theme=radical" />
+  </a>
+</p>
+
 
 ## 🛠️ Langages et outils
 
@@ -37,9 +39,9 @@
   ![NuxtJS](https://img.shields.io/badge/-NuxtJS-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
   ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-  ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat-square&logo=postgresql&logoColor=white)
-
+  ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=node.js&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 </div>
 
