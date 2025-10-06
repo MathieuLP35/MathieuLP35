@@ -9,18 +9,6 @@
 
 </div>
 
-## 📊 Mes statistiques GitHub
-
-
-<p align="center">
-  <a href="https://github.com/MathieuLP35">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=MathieuLP35&theme=radical&show_icons=true&hide_border=true&count_private=false" />
-  </a>
-  <a href="https://github.com/MathieuLP35">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuLP35&layout=compact&theme=radical" />
-  </a>
-</p>
-
 
 ## 🛠️ Langages et outils
 
