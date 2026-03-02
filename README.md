@@ -34,7 +34,33 @@
 
 ## 🌟 Projets
 
-<div align="center">
-  ---
-</div>
+### 🚗 Gestion de Flotte Automobile
 
+> **Application web complète de gestion de flotte pour entreprise** — `v0.1.0-alpha`
+
+Un outil interne moderne pensé pour simplifier la gestion du parc automobile d'une organisation, de la réservation au bilan RSE.
+
+**Fonctionnalités clés :**
+- 📅 **Réservation de véhicules** avec calendrier, retours et historique
+- 🤝 **Covoiturage** inter-collaborateurs avec gestion des passagers
+- 🌿 **Rapport RSE** multi-périodes : CO2 évité, trajets partagés, export PDF
+- 🏢 **Multi-agences** avec statistiques par site
+- 🔐 **Gestion des rôles & permissions** granulaires
+- 🔧 **Suggestion intelligente de véhicule** selon l'énergie et la distance
+
+**Stack :**
+
+![Laravel](https://img.shields.io/badge/Laravel-12-E74430?style=flat-square&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-3-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Inertia](https://img.shields.io/badge/Inertia.js-blueviolet?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+[![Pre-Release](https://img.shields.io/github/v/tag/MathieuLP35/gestion-flotte?label=pre-release&color=orange&style=flat-square)](https://github.com/MathieuLP35/gestion-flotte/releases)
+
+[🔗 Voir le dépôt](https://github.com/MathieuLP35/gestion-flotte) · [📦 Releases](https://github.com/MathieuLP35/gestion-flotte/releases)
+
+
+---
+
+</div>
