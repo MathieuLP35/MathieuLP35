@@ -1,4 +1,3 @@
-## Bienvenue sur ma page GitHub 
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ab8213c5-0abd-48a8-a298-7f0e3ec43ea4" alt="image" width="100" height="100" style="border-radius: 50%;" />
@@ -9,6 +8,7 @@
 
 </div>
 
+<br />
 
 ## 🛠️ Langages et outils
 
@@ -32,11 +32,13 @@
 
 </div>
 
+<br />
+
 ## 🌟 Projets
 
 ### 🚗 Gestion de Flotte Automobile
 
-> **Application web complète de gestion de flotte pour entreprise** — `v0.1.0-alpha`
+*Application web complète de gestion de flotte pour entreprise* — `v0.1.0-alpha`
 
 Un outil interne moderne pensé pour simplifier la gestion du parc automobile d'une organisation, de la réservation au bilan RSE.
 
