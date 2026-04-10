@@ -38,7 +38,7 @@
 
 ### 🚗 Gestion de Flotte Automobile
 
-*Application web complète de gestion de flotte pour entreprise* — `v0.1.0-alpha`
+*Application web complète de gestion de flotte pour entreprise*
 
 Un outil interne moderne pensé pour simplifier la gestion du parc automobile d'une organisation, de la réservation au bilan RSE.
 
